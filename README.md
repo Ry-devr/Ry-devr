@@ -22,4 +22,7 @@ Olá! Meu nome é Ryan <img src="https://i.pinimg.com/736x/a3/58/ec/a358ec3b7f93
 ## Linguagens, Ferramentas e OS:
 
 
-[![Skills](https://skillicons.dev/icons?i=python,c,git,vim,linux,arch)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,c,java,git,vim,linux,arch)](https://skillicons.dev)
+
+
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
