@@ -1,28 +1,42 @@
-# Hello! it's my profile
-<p align="center"> 
- <img src="https://i.pinimg.com/736x/9a/e3/67/9ae367f376e46baa61fbb5ea111a2674.jpg" width="200">
- <img src="https://i.pinimg.com/736x/7a/41/62/7a41625d89671c01dabd1cb5ae89874d.jpg" width="200">
- <img src="https://i.pinimg.com/736x/85/fc/a8/85fca8deca27f9e925f1aa91a5f79569.jpg" width="200">
-</p>
+# Hello!👋
+
 
 <div id="user-content-toc" align="center">
   <ul>
   <summary><h2> Sobre mim: </h2></summary>
   </ul>
 </div>
-Olá! Meu nome é Ryan <img src="https://i.pinimg.com/736x/a3/58/ec/a358ec3b7f932ff814fcfad51c84322d.jpg" width="50">
 
 
-- 🐧 Usuário Linux e entusiasta de software livre.
-- 💻 Aprendendo programação e desenvolvimento de software.
-- 🌱 Atualmente estudando Python, C e Linux.
-- 🚀 Interessado em engenharia de software e tecnologias open source.
+<p align="center"> 
+ 
+ <img src="https://i.pinimg.com/originals/4a/ec/1d/4aec1ddb4b55d81cb175c26c21ab6548.gif" width="300">
+</p>
 
 
-## Linguagens, Ferramentas e OS:
+<p align="center"> Olá! Meu nome é Ryan. Sou estudante de Licenciatura em Computação no IFPE, com meu foco em desenvolvimento </p>
+<p align="center">  Gosto de programar, mexer com Linux, quebrar as coisas e descobrir como elas funcionam. </p>
+
+## Meus gostos:
+- 🐧 Linux & open source
+- 💻 Python • C • Java
+- 🔨 Projetos e experimentos
+- 🚀 Desenvolvimento de software
 
 
-[![Skills](https://skillicons.dev/icons?i=python,c,java,git,vim,linux,arch)](https://skillicons.dev)
+## Tecnologias:
+
+[![Skills](https://skillicons.dev/icons?i=python,c,java,git,vim,linux)](https://skillicons.dev)
 
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
+
+<p align="center"> 
+ <img src="https://i.pinimg.com/736x/9a/e3/67/9ae367f376e46baa61fbb5ea111a2674.jpg" width="200">
+
+ <img src="https://i.pinimg.com/736x/85/fc/a8/85fca8deca27f9e925f1aa91a5f79569.jpg" width="200">
+ <img src="http://i.pinimg.com/1200x/2d/5c/31/2d5c31adba4ea77f3194a699fb432b6d.jpg" width="200">
+</p>
+
+
+> echo "hello world"
